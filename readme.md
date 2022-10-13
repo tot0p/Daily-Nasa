@@ -1,4 +1,7 @@
 # Daily-Nasa
+
+This Repo displays the daily nasa image and the description of the image.
+
 <!--NASA-->
 # Dust Shells around WR 140 from Webb
 ## explaination :
