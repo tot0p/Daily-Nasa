@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Clouds Around Galaxy Andromeda
+# Jupiter Rotates as Moons Orbit
 ## explaination :
 
-What are those red clouds surrounding the Andromeda galaxy? This galaxy, M31, is often imaged by planet Earth-based astronomers. As the nearest large spiral galaxy, it is a familiar sight with dark dust lanes, bright yellowish core, and spiral arms traced by clouds of bright blue stars.  A mosaic of well-exposed broad and narrow-band image data, this deep portrait of our neighboring island universe offers strikingly unfamiliar features though, faint reddish clouds of glowing ionized hydrogen gas in the same wide field of view. Most of the ionized hydrogen clouds surely lie in the foreground of the scene, well within our Milky Way Galaxy. They are likely associated with the pervasive, dusty interstellar cirrus clouds scattered hundreds of light-years above our own galactic plane. Some of the clouds, however, occur right in the Andromeda galaxy itself, and some in M110, the small galaxy just below.
+Jupiter and its moons move like our Sun and its planets. Similarly, Jupiter spins while its moons circle around. Jupiter’s rotation can be observed by tracking circulating dark belts and light zones. The Great Red Spot, the largest storm known, rotates to become visible after about 15 seconds in the 48-second time lapse video. The video is a compilation of shorts taken over several nights last month and combined into a digital recreation of how 24-continuous hours would appear. Jupiter's brightest moons always orbit in the plane of the planet's rotation, even as Earth’s spin makes the whole system appear to tilt.  The moons Europa, Ganymede, and Io are all visible, with Europa's shadow appearing as the icy Galilean moon crosses Jupiter's disk.  Jupiter remains near opposition this month, meaning that it is unusually bright, near to its closest to the Earth, and visible nearly all night long.   Almost Hyperspace: Random APOD Generator
 
-![NASA](https://apod.nasa.gov/apod/image/2210/M31Clouds_Fryhover_960.jpg)
+![NASA](https://www.youtube.com/embed/juloL5WeLrc?rel=0)
 <!--/NASA-->
