@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# A Double Star Cluster in Perseus
+# Earthset from Orion
 ## explaination :
 
-Few star clusters this close to each other.  Visible to the unaided eye from dark sky areas, it was cataloged in 130 BC by Greek astronomer Hipparchus.  Some 7,000 light-years away, this pair of open star clusters is also an easy binocular target, a striking starfield in the northern constellation of the mythical Greek hero Perseus. Now known as h and chi Persei, or NGC 869 (above right) and NGC 884, the clusters themselves are separated by only a few hundred light-years and contain stars much younger and hotter than the Sun.  In addition to being physically close together, the clusters' ages based on their individual stars are similar - evidence that both clusters were likely a product of the same star-forming region.
+ght billion people are about to disappear in this snapshot from space. Taken on November 21, the sixth day of the Artemis 1 mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. The Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver will be used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft will orbit in the opposite direction of the Moon's orbit around planet Earth. Orion will enter its distant retrograde orbit on Friday, November 25. Swinging around the Moon, Orion will reach a maximum distance (just over 400,000 kilometers) from Earth on Monday November 28 exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration.
 
-![NASA](https://apod.nasa.gov/apod/image/2211/DoubleCluster_Lease_960.jpg)
+![NASA](https://apod.nasa.gov/apod/image/2211/earthset-snap01.png)
 <!--/NASA-->
