@@ -21,17 +21,25 @@ partONe = lines[:start+1]
 conttemp = lines[start+1:end]
 partTwo = lines[end:]
 cont = []
-r = requests.get("https://api.nasa.gov/planetary/apod?api_key="+os.environ['NASA_KEY']+"&hd=True")
+r = requests.get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY")
 if r.status_code != 200:
-    print("Error: API request failed")
-    exit(1)
-r = r.json()
-cont.append("# "+r['title']+"\n")
-cont.append("## explaination :\n")
-cont.append("\n")
-cont.append(r['explanation']+"\n")
-cont.append("\n")
-cont.append("![NASA]("+r['url']+")\n")
+    if r.status_code - 500 < 100:
+        print("Error: NASA API is down")
+        cont.append("# NASA API is down\n")
+    else:
+        print("Error: API request failed")
+        exit(1)
+else :
+    r = r.json()
+    cont.append("# "+r['title']+"\n")
+    cont.append("## explaination :\n")
+    cont.append("\n")
+    cont.append(r['explanation']+"\n")
+    cont.append("\n")
+    cont.append("![NASA]("+r['url']+")\n")
+
+
+
 if conttemp == cont:
     print("No new content")
     exit(0)
