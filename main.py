@@ -25,7 +25,7 @@ r = requests.get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY")
 if r.status_code != 200:
     if r.status_code - 500 < 100:
         print("Error: NASA API is down")
-        cont.append("# NASA API is down\n")
+        cont.append("# NASA API is down\n") # because the nasa api is down at this commit
     else:
         print("Error: API request failed")
         exit(1)
@@ -37,8 +37,6 @@ else :
     cont.append(r['explanation']+"\n")
     cont.append("\n")
     cont.append("![NASA]("+r['url']+")\n")
-
-
 
 if conttemp == cont:
     print("No new content")
