@@ -3,10 +3,8 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Three Sun Paths
-## explaination :
+## NASA API is down
+[NASA API REQUEST](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
-Does the Sun follow the same path every day? No.  The Sun's path changes during the year, tracing a longer route during the summer than the winter. Pictured here, the Sun's arc was captured from noon to sunset on three days,  from highest in the sky to lowest: summer solstice, equinox, and winter solstice.  The images were taken near Gatto Corvino Village in Sicily, Italy in 2020 and 2021. The path and time the Sun spends in the sky is more important in determining the season than how close the Earth is to the Sun.  In fact, the Earth is closest to the Sun in January, during northern winter.  Today is a solstice, so today the Sun is taking its longest path of the year across the sky in Earth's  northern hemisphere, but the shortest path in the southern hemisphere.
-
-![NASA](https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg)
+[NASA API REPO](https://github.com/nasa/apod-api)
 <!--/NASA-->
