@@ -3,10 +3,8 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Milky Way above La Palma Observatory
-## explaination :
+## NASA API is down
+[NASA API REQUEST](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
-What's happening in the night sky? To help find out, telescopes all over the globe will be pointing into deep space.  Investigations will include trying to understand the early universe, finding and tracking Earth-menacing asteroids, searching for planets that might contain extra-terrestrial life, and monitoring stars to help better understand our Sun. The featured composite includes foreground and background images taken in April from a mountaintop on La Palma island in the Canary Islands of Spain.  Pictured, several telescopes from the Roque de los Muchachos Observatory are shown in front of a dark night sky. Telescopes in the foreground include, left to right, Magic 1, Galileo, Magic 2, Gran Canarian, and LST. Sky highlights in the background include the central band of our Milky Way Galaxy, the constellations of Sagittarius, Ophiuchus and Scorpius, the red-glowing Eagle and Lagoon Nebulas, and the stars Alrami and Antares.  Due to observatories like this, humanity has understood more about our night sky in the past 100 years than ever before in all of human history.
-
-![NASA](https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_960.jpg)
+[NASA API REPO](https://github.com/nasa/apod-api)
 <!--/NASA-->
