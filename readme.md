@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Young Stars, Stellar Jets
+# Apollo 11: Catching Some Sun
 ## explaination :
 
-High-speed outflows of molecular gas from a pair of actively forming young stars shine in infrared light, revealing themselves in this NIRcam image from the James Webb Space Telescope. Cataloged as HH (Herbig-Haro) 46/47, the young stars are lodged within a dark nebula that is largely opaque when viewed in visible light.  The pair lie at the center of the prominent reddish diffraction spikes in the NIRcam image.  Their energetic stellar jets extend for nearly a light-year, burrowing into the dark interstellar material. A tantalizing object to explore with Webb's infrared capabilities, this young star system is relatively nearby, located only some 1,140 light-years distant in the nautical constellation Vela.
+Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken fifty-four years ago, July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.
 
-![NASA](https://apod.nasa.gov/apod/image/2307/HH46-47_JWST1030.jpg)
+![NASA](https://apod.nasa.gov/apod/image/2307/AS11-40-5872HR1024.jpg)
 <!--/NASA-->
