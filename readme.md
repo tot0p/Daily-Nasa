@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# The Nebulous Realm of WR 134
+# Stereo Helene
 ## explaination :
 
-Made with narrowband filters, this cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the constellation Cygnus. It highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, brightest star near the center of the frame. Distance estimates put WR 134 about 6,000 light-years away, making the frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end this final phase of massive star evolution in a spectacular supernova explosion. The stellar winds and final supernova enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
+Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.
 
-![NASA](https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png)
+![NASA](https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg)
 <!--/NASA-->
