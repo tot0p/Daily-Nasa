@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Sandy and the Moon Halo
+# Hubble's NGC 1546
 ## explaination :
 
-Last April's Full Moon shines through high clouds near the horizon, casting shadows in this garden-at-night skyscape. Along with canine sentinel Sandy watching the garden gate, the wide-angle snapshot also captured the bright Moon's 22 degree ice halo. But June's bright Full Moon will cast shadows too. This month, the Moon's exact full phase occurs at 01:08 UTC June 22. That's a mere 28 hours or so after today's June solstice (at 20:51 UTC June 20), the moment when the Sun reaches its maximum northern declination. Known to some as a Strawberry Moon, June's Full Moon is at its southernmost declination, and of course will create its own 22 degree halos in hazy night skies.
+Returning to science operations on June 14, the Hubble Space Telescope used its new pointing mode to capture this sharp image of spiral galaxy NGC 1546. A member of the Dorado galaxy group, the island universe lies a mere 50 million light-years away. The galactic disk of NGC 1546 is tilted to our line-of-sight, with the yellowish light of the old stars and bluish regions of newly formed stars shining through the galaxy's dust lanes. More distant background galaxies are scattered throughout this Hubble view. Launched in 1990, Hubble has been exploring the cosmos for more than three decades, recently celebrating its 34th anniversary.
 
-![NASA](https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg)
+![NASA](https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg)
 <!--/NASA-->
