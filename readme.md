@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Noctilucent Clouds over Florida
+# A Sagittarius Triplet
 ## explaination :
 
-These clouds are doubly unusual. First, they are rare noctilucent clouds, meaning that they are visible at night -- but only just before sunrise or just after sunset.  Second, the source of these noctilucent clouds is actually known. In this rare case, the source of the sunlight-reflecting ice-crystals in the upper atmosphere can be traced back to the launch of a nearby SpaceX rocket about 30 minutes earlier.  Known more formally as polar mesospheric clouds, the vertex of these icy wisps happens to converge just in front of a rising crescent Moon. The featured image -- and accompanying video -- were captured over Orlando, Florida, USA about a week ago.  The bright spot to the right of the Moon is the planet Jupiter, while the dotted lights above the horizon on the right are from an airplane.
+These three bright nebulae are often featured on telescopic tours of the constellation Sagittarius and the crowded starfields of the central Milky Way. In fact, 18th century cosmic tourist Charles Messier cataloged two of them; M8, the large nebula above center, and colorful M20 below and left in the frame. The third emission region includes NGC 6559, right of M8 and separated from the larger nebula by a dark dust lane. All three are stellar nurseries about five thousand light-years or so distant. Over a hundred light-years across the expansive M8 is also known as the Lagoon Nebula. M20's popular moniker is the Trifid. Glowing hydrogen gas creates the dominant red color of the emission nebulae. But for striking contrast, blue hues in the Trifid are due to dust reflected starlight. The broad interstellar skyscape spans almost 4 degrees or 8 full moons on the sky.
 
-![NASA](https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg)
+![NASA](https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg)
 <!--/NASA-->
