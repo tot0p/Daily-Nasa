@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# Reflections on VdB 31
+# A Cosmic Rose: NGC 2237 in Monoceros
 ## explaination :
 
-Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st object in Sidney van den Bergh's 1966 catalog of reflection nebulae. It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919 catalog of dark markings in the sky. All are these nebulae are interstellar dust clouds. Barnard's dark nebulae block the light from background stars. For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae. Exploring the environs of AB Aurigae with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened dusty disk with evidence for the ongoing formation of a planetary system. AB Aurigae is about 470 light-years away. At that distance this cosmic canvas would span about eight light-years.
+The Rosette Nebula, NGC 2237, is not the only cosmic cloud of gas and dust to evoke the imagery of flowers, but it is probably the most famous.  At the edge of a large molecular cloud in Monoceros some 5,000 light years away, the petals of this cosmic rose are actually a stellar nursery. The lovely, symmetric shape is sculpted by the winds and radiation from its central cluster of hot young, O-type stars. Stars in the energetic cluster, cataloged as NGC 2244, are only a few million years young, while the central cavity in the Rosette Nebula, is about 50 light-years in diameter. The nebula can be seen with a small telescope toward the constellation of Monoceros, the Unicorn. This natural appearing telescopic portrait of the Rosette Nebula was made using broadband color filters, but sometimes roses aren't red.
 
-![NASA](https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg)
+![NASA](https://apod.nasa.gov/apod/image/2502/RosetteNeb1024.jpg)
 <!--/NASA-->
