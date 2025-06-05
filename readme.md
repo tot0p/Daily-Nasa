@@ -3,10 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# A Milky Road to the Rubin Observatory
+# Savudrija Star Trails
 ## explaination :
 
-Is the sky the same every night? No -- the night sky changes every night in many ways. To better explore how the night sky changes, the USA's NSF and DOE commissioned the Vera C. Rubin Observatory in Cerro Pachón, Chile. In final testing before routine operations, Rubin will begin to explore these nightly changes -- slight differences that can tell us much about our amazing universe and its surprising zoo of objects. With a mirror over 8 meters across, Rubin will continually reimage the entire visible sky every few nights to discover new supernovas, potentially dangerous asteroids, faint comets, and variable stars -- as well as mapping out the visible universe's large-scale structure.  Pictured, the distant central band of our Milky Way Galaxy appears to flow out from the newly operational observatory. Taken last month, the featured picture is a composite of 21 images across the night sky, capturing airglow on the horizon and the Small Magellanic Cloud galaxy on the lower left.    APOD Turns 30!: Free Public Lecture in Anchorage on June 11
+Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.
 
-![NASA](https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_960.jpg)
+![NASA](https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg)
 <!--/NASA-->
