@@ -3,8 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-## NASA API is down
-[NASA API REQUEST](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
+# Three Galaxies in Pavo
+## explaination :
 
-[NASA API REPO](https://github.com/nasa/apod-api)
+Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of massive molecular clouds. Below, spiral NGC6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.
+
+![NASA](https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg)
 <!--/NASA-->
