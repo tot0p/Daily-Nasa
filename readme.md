@@ -3,10 +3,8 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# NASA Science
-## explaination :
+## NASA API is down
+[NASA API REQUEST](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
-What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth’s magnetic field. Energetic particles from the eruption collide with and energize the molecules in Earth’s atmosphere, which release that extra energy as the colorful aurora captured here. Auroras, or guovssahasat in North Sámi, is traditionally viewed with respect by the Sámi people indigenous to Sweden and other Arctic regions. Coincidentally, Mars appeared closest to the center of the Beehive cluster in the sky at the time. Although bees have been to space, the Beehive cluster is actually a swarm of young stars. Their rotation periods have helped humanity learn about how stars spin slower over time as they lose mass through their stellar winds.Tomorrow's picture: open space						
-
-![NASA](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+[NASA API REPO](https://github.com/nasa/apod-api)
 <!--/NASA-->
