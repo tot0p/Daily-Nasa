@@ -3,10 +3,8 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-# NASA Science
-## explaination :
+## NASA API is down
+[NASA API REQUEST](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
- Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round						
-
-![NASA](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+[NASA API REPO](https://github.com/nasa/apod-api)
 <!--/NASA-->
