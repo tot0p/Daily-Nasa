@@ -3,8 +3,10 @@
 This Repo displays the daily nasa image and the description of the image.
 
 <!--NASA-->
-## NASA API is down
-[NASA API REQUEST](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
+# NASA Science
+## explaination :
 
-[NASA API REPO](https://github.com/nasa/apod-api)
+What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.Tomorrow's picture: eyeing a cat						
+
+![NASA](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 <!--/NASA-->
